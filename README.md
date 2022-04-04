@@ -8,4 +8,7 @@ LD 50 Jam Submission
   
   
   Itch.io Link:
-  - <https://www.eventualItchLink.org>
+  	 WebGl
+  - <https://cornerpoint.itch.io/all-charged-up-webgl>
+     	 Windows .exe
+  - <https://cornerpoint.itch.io/all-charged-up>
